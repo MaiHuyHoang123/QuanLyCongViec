@@ -1,0 +1,69 @@
+.mx-1{
+     margin-left: 4px;
+     margin-right: 4px;
+}
+.ml-1{
+     margin-left: 4px;
+}
+.mr-1{
+     margin-right: 4px;
+}
+.border-0{
+     border: 0px;
+}
+.bg-transparent{
+     background-color: transparent;
+}
+.cursor-pointer{
+     cursor: pointer;
+}
+.bg-slate-400{
+     background-color: rgb(148 163 184);
+}
+.relative{
+     position: relative;
+}
+.absolute{
+     position: absolute;
+}
+.bottom-50{
+     bottom: 50%;
+}
+.translate-y-50{
+     transform: translateY(50%);
+}
+.left-50{
+     left: 50%;
+}
+.-translate-x-50{
+     transform: translateX(-50%);
+}
+.z-100{
+     z-index: 100;
+}
+
+.z-1000{
+     z-index: 1000;
+}
+.h-96{
+     height: 384px;
+}
+.line-clamp-3{
+     overflow: hidden;
+     display: -webkit-box;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 3;
+}
+
+.text-blue-500{
+     color: rgb(59 130 246);
+}
+.text-indigo-600{
+     color: rgb(79 70 229);
+}
+.max-vw-80{
+     max-width: 80vw !important;
+}
+.bottom-0{
+     bottom: 0px;
+}
